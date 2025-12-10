@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File ".\remove-undesiredapps.ps1" -Verbose -RunMCPR
